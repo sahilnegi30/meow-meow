@@ -216,9 +216,9 @@ body {
   text-transform: uppercase;
 }
 
-.wish h5 {
+.wish h6 {
   font-weight: lighter;
-  font-size: 2rem;
+  font-size: 1rem;
   margin: 10px 0 0;
 }
 
